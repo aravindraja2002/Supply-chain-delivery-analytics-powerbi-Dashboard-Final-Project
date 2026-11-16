@@ -1,0 +1,2 @@
+# Supply-chain-delivery-analytics-powerbi-Dashboard-Final-Project
+Capstone project: Power BI and Python analysis of 32,065 hourly logistics records 2021-2024 covering delivery, SLA supplier reliability, warehouse stock and risk-cost. Built with pandas, DAX and a decomposition tree, shows 82% deliveries late at zero tolerance, falling to 67% at 3 hours, and that no supplier, risk class or cost band drives delay.
